@@ -17,7 +17,7 @@ def parse_train_opt():
         "--render_dir", type=str, default="renders/", help="Sample render path"
     )
     parser.add_argument(
-        "--render_videos", type=bool, default=True, help="whether to render videos"
+        "--render_videos", action="store_true", help="whether to render videos"
     )
 
     parser.add_argument("--feature_type", type=str, default="jukebox")

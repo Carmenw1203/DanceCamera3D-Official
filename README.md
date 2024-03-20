@@ -60,7 +60,7 @@ bash sh/create_dataset.sh
 * Download the saved model checkpoint from [Google Drive](https://drive.google.com/file/d/1SEBYHD7FqVM5J0w79Ra3nYZAMerj_q_L/view?usp=sharing) .
 * Generate results with the downloaded checkpoint by running
 
-```.python
+```.bash
 python3 scripts/test.py --test_mode long \
 --gw1 1.75 --gw2 1 \
 --camera_format polar \
@@ -68,6 +68,7 @@ python3 scripts/test.py --test_mode long \
 --checkpoint train-3000.pt \
 --condition_separation_CFG True \
 --render_dir renders/DanceCamera3D_SepCFG_PolarCam/test_demo/ \
+<!-- --render_videos \ # take some time to render videos -->
 --music_dir DCM_data/amc_data_split_by_categories/Test/Audio \
 --motionGT_dir DCM_data/amc_data_split_by_categories/Test/Simplified_MotionGlobalTransform 
 ```
