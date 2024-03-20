@@ -169,7 +169,13 @@ This is a research implementation and, in general, will not be regularly updated
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```.bash
-
+@article{Wang2024DanceCamera3D,
+  title={DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance},
+  author={Wang, Zixuan and Jia, Jia and Sun, Shikun and Wu, Haozhe and Han, Rong and Li, Zhenyu and Tang, Di and Zhou, Jiaqing and Luo, Jiebo},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={},
+  year={2024},
+}
 ```
 ## Acknowledgements
 
