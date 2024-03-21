@@ -1,6 +1,7 @@
 ## DanceCamera3D &mdash; Official PyTorch implementation
 
 Code for CVPR 2024 paper "DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance"
+[[Paper]](https://arxiv.org/abs/2403.13667)
 
 ✨ Do not hesitate to give a star! ✨
 
