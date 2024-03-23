@@ -1,8 +1,8 @@
 accelerate launch scripts/train.py \
---project runs/train_SepCFG_CentricCam \
+--project runs/train_SepCFG_PolarCam \
 --data_path ../../data/wangzx_DCM/data/amc_data_split_by_categories \
---render_dir renders/DanceCamera3D_SepCFG_CentricCam \
---wandb_pj_name DanceCamera3D_SepCFG_CentricCam \
+--render_dir renders/DanceCamera3D_SepCFG_PolarCam \
+--wandb_pj_name DanceCamera3D_SepCFG_PolarCam \
 --batch_size 128  --epochs 3000 \
 --feature_type jukebox \
 --learning_rate 0.0002 \
