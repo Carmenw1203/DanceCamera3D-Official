@@ -1,7 +1,7 @@
 ## DanceCamera3D &mdash; Official PyTorch implementation
 
 Code for CVPR 2024 paper "DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance"
-[[Paper]](https://arxiv.org/abs/2403.13667)
+[[Paper]](https://arxiv.org/abs/2403.13667) [[Project Page]](https://carmenw1203.github.io/DanceCamera3D.github.io/) [[Video]](https://www.youtube.com/watch?v=GSUyx1yWjaU)
 
 ✨ Do not hesitate to give a star! ✨
 
@@ -161,8 +161,9 @@ to train the model with the settings from the paper. The training will log progr
 
 ## Todo
 
-* scripts for automatically exporting the motion data from `.vmd` files.
-* video demo.
+- [X] video demo.
+- [ ] scripts for automatically exporting the motion data from `.vmd` files.
+
 
 ## Development
 
