@@ -101,7 +101,7 @@ python3 scripts/json2vmd.py \
 --data_type camera
 ```
 ### Visualization
-For visualization in [Saba_Viewer](https://github.com/benikabocha/saba), we recommand human models similar to [符华 from 神帝宇](https://www.aplaybox.com/u/359396473?searchKeyword=符华). The charactor model we used for demo is modified by [凛逸](https://space.bilibili.com/1561923759) and [神帝宇](https://www.aplaybox.com/u/359396473), copyrights to [miHoYo](https://www.mihoyo.com.).
+For visualization in [Saba_Viewer](https://github.com/benikabocha/saba), we recommand human models similar to [符华 from 神帝宇](https://www.aplaybox.com/u/359396473?searchKeyword=符华). The character model we used for demo is modified by [凛逸](https://space.bilibili.com/1561923759) and [神帝宇](https://www.aplaybox.com/u/359396473), copyrights to [miHoYo](https://www.mihoyo.com.).
 
 By the way, there are two changes to the source code of [Saba_Viewer](https://github.com/benikabocha/saba):
 
