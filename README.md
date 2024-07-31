@@ -172,11 +172,13 @@ This is a research implementation and, in general, will not be regularly updated
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```.bash
-@inproceedings{Wang2024DanceCamera3D,
-  author = {Wang, Zixuan and Jia, Jia and Sun, Shikun and Wu, Haozhe and Han, Rong and Li, Zhenyu and Tang, Di and Zhou, Jiaqing and Luo, Jiebo},
-  title = {DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year = {2024},
+@InProceedings{Wang_2024_CVPR,
+    author    = {Wang, Zixuan and Jia, Jia and Sun, Shikun and Wu, Haozhe and Han, Rong and Li, Zhenyu and Tang, Di and Zhou, Jiaqing and Luo, Jiebo},
+    title     = {DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {7892-7901}
 }
 ```
 ## Acknowledgements
